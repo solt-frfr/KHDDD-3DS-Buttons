@@ -1,6 +1,6 @@
 title: 3DS Buttons
 originalAuthor: Solt11
-description: Restores the old 3DS button icons over Gamepad Type 3
+description: Restores the old 3DS button icons over Gamepad 3 using my own HD design.
 dependencies: 
 assets:
 - name: remastered/font/en/bin/iconfont_n.ctt/US_iconfont_n.png
